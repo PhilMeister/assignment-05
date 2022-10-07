@@ -9,7 +9,7 @@
 * Group 7: asly, emtj, crco
 * Group 8: monha, bath, vist
 * Group 9: lawu, jakst, weny
-* Group 10: phla, dadh, frgm
+* Group 10: dadh, frgm
 * Group 11: rasni, vime, ahad
 * Group 12: mbia, nkar, maxt
 * Group 13: nkrj, mbjn, labp
@@ -27,7 +27,7 @@
 * Group 25: frepe, ojoh, emkh
 * Group 26: otja, biha, kmsa
 * Group 27: mhsi, ehel, mhvl
-* Group 28: unla, rafa, siar
+* Group 28: rafa, siar
 * Group 29: phimo, tcla, frai
 * Group 30: jwni, emno, tuho
 * Group 31: behv, nihp, tbru
@@ -45,3 +45,4 @@
 * Group 43: nidd, noms, timj
 * Group 44: husa, ksig, esmi
 * Group 45: seel, jown
+* Group 46: phla, unla
